@@ -51,6 +51,6 @@ try {
 }
 //catch
 } catch (e) {
-    print("Error: Please enter a valid decimal number.");
+    print("Error: Invalid Value.");
   }
 }

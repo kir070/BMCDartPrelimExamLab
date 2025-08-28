@@ -1,4 +1,5 @@
 import 'dart:io';
+
 void main () {
     double passingGradeThreshold = 60.0;
     double maximumPossibleScore = 100.0;
